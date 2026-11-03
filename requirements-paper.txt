@@ -1,0 +1,3 @@
+# Optional paper-intake dependencies; install into the existing D-drive runtime.
+pdfplumber==0.11.9
+pypdfium2==5.14.0

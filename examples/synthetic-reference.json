@@ -1,0 +1,8 @@
+{
+  "schema_version": "TiFM_master_self_contained_v0.1",
+  "paper_short_id": "DEMO",
+  "notice": "Synthetic teaching fixture only. Not a paper, experiment, validated full-schema master or training dataset.",
+  "samples": [{"sample_id": "DEMO-SAMPLE", "sample_label": "Synthetic geometry only"}],
+  "microstructure_quantification_records": [{"quantification_record_id": "DEMO-ECD", "sample_id": "DEMO-SAMPLE", "quantification_target": "mean_ecd", "value": 22.56758334191025, "unit": "µm", "source_figure_or_table": "Synthetic square, not a material phase"}],
+  "xrd_records": [{"xrd_record_id": "DEMO-XRD", "sample_id": "DEMO-SAMPLE", "peaks": [{"peak_id": "DEMO-PEAK", "two_theta_deg": 50, "normalized_intensity": 100}]}]
+}
